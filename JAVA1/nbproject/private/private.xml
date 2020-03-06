@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/B:/PROJECTS/JAVA/PIDEV/src/Application/AdminLivreur.fxml</file>
+            <file>file:/B:/PROJECTS/JAVA/PIDEV/src/Application/Acc.fxml</file>
+            <file>file:/B:/PROJECTS/JAVA/PIDEV/src/Mail/SendMail.java</file>
+            <file>file:/B:/PROJECTS/JAVA/PIDEV/src/Utility/DataBase.java</file>
+            <file>file:/B:/PROJECTS/JAVA/PIDEV/src/Mail/MailApp.java</file>
+            <file>file:/B:/PROJECTS/JAVA/PIDEV/src/Service/ServiceLivreur.java</file>
+            <file>file:/B:/PROJECTS/JAVA/PIDEV/src/IService/ILivreur.java</file>
+            <file>file:/B:/PROJECTS/JAVA/PIDEV/src/Application/AccController.java</file>
+            <file>file:/B:/PROJECTS/JAVA/PIDEV/src/Entity/User.java</file>
+            <file>file:/B:/PROJECTS/JAVA/PIDEV/src/Entity/Livreur.java</file>
+        </group>
+    </open-files>
+</project-private>
