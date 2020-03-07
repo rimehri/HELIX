@@ -28,7 +28,7 @@ public class AccController implements Initializable {
     @FXML
     private ImageView img_admin;
     @FXML
-    private Button btn_user;
+    private Button btn_user;jb ,l;: kl;
     @FXML
     private ImageView img_user;
 
